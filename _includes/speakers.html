@@ -3,7 +3,9 @@
   <article>
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
+    {%- if post.content.size > 200 -%} {{ post.content | strip_html |truncate: 200 }}  
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+    {% else %} {{ post.content }} {%- endif -%}
   </article>
 {% endfor %}
 
