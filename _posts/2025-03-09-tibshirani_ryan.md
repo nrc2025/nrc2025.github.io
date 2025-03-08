@@ -1,8 +1,7 @@
 ---
-title:  "Ryan Tibshirani"
+title: "Ryan Tibshirani"
 mathjax: true
 layout: post
-categories: statistics
 ---
 
 Dr. [Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/) is a statistician and machine learning expert, currently serving as a Professor in the Department of Statistics at the University of California, Berkeley. He completed his Ph.D. in Statistics at Stanford University in 2011, following a B.S. in Mathematics from the same institution in 2007. 

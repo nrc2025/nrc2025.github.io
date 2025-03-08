@@ -1,8 +1,7 @@
 ---
-title:  "Jeffrey Morris"
+title: "Jeffrey Morris"
 mathjax: true
 layout: post
-categories: biostatistics
 ---
 
 Dr. [Jeffrey S. Morris](https://dbei.med.upenn.edu/staff/jeffrey-s-morris-phd/) is the George S. Pepper Professor of Public Health and Preventive Medicine and serves as the Director of the Division of Biostatistics at Perelman School of Medicine, the University of Pennsylvania. He earned his Ph.D. in Statistics from Texas A&M University in 2000. 

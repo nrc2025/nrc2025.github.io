@@ -1,8 +1,7 @@
 ---
-title:  "Hongtu Zhu"
+title: "Hongtu Zhu"
 mathjax: true
 layout: post
-categories: biostatistics
 ---
 
 Dr. [Hongtu Zhu](https://sph.unc.edu/adv_profile/hongtu-zhu-phd/) is a professor in the Department of Biostatistics at the University of North Carolina at Chapel Hill. He earned his Ph.D. in statistics from the Chinese University of Hong Kong in 2000. Dr. Zhu's expertise spans statistics, medical imaging, genetics, and computational neuroscience. His research focuses on developing statistical methods for analyzing complex medical imaging data, including MRI, DTI, EEG/MEG, fMRI, and PET scans. 

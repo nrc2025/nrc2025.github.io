@@ -1,8 +1,7 @@
 ---
-title:  "Kate Calder"
+title: "Kate Calder"
 mathjax: true
 layout: post
-categories: statistics
 ---
 
 Dr. [Catherine A. "Kate" Calder](https://stat.utexas.edu/directory/catherine-kate-calder) is a statistician and data scientist, currently serving as the Chair of the Department of Statistics and Data Sciences at the University of Texas at Austin. She earned her bachelor's degree in mathematics from Northwestern University in 1999 and completed her Ph.D. in statistics at Duke University in 2003. 
