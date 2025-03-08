@@ -19,3 +19,7 @@ The 25th Meeting of New Researchers in Statistics and Probability (2025 IMS New 
 - The application **deadline** is **April 30, 2025**.
 
 Participation in NRC 2025 is by **invitation** only. Travel (up to $400) and accomodation costs for the invited participants will be fully covered. Click [here](https://nrc2025.github.io/application/) for the details about application and invitation procedures. 
+
+## Contact
+
+If you have any questions, please feel free to contact the organizers via <a href="mailto:nrc2025@vumc.org">nrc2025@vumc.org</a>.
