@@ -1,6 +1,6 @@
-title: "IMS New Researchers Conference"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "The 25th Meeting of New Researchers in Statistics and Probability"
+author: "NRC 2025 Organizers"
+description: "NRC 2025 at Vanderbilt University Medical Center"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.md", title: Home}
+  - {file: "organizers.md", title: Organizers}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: NRC, icon: website, url: "https://www.imsnrg.com/home"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
