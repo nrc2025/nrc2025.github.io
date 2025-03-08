@@ -4,7 +4,7 @@ permalink: "/venue/"
 layout: page
 ---
 
-<iframe src="./vuleafmap.html" width="800" height="450"></iframe>
+<iframe src="https://nrc2025.github.io/vuleafmap.html" width="800" height="450"></iframe>
 
 ## Accomondation
 
