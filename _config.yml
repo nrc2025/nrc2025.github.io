@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
   - {file: "organizers.md", title: Organizers}
   - {file: "speakers.html", title: Speakers}
+  - {file: "application.md", title: Application}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}

@@ -10,8 +10,8 @@ The [Institute of Mathematical Statistics (IMS)](https://imstat.org/) sponsors t
 
 ## NRC 2025 at VUMC
 
-The 25th Meeting of New Researchers in Statistics and Probability (2025 IMS New Researchers Conference) will be hosted by the Department of Biostatistics at the Vanderbilt University Medical Center (VUMC) during **July 31 - August 2, 2025**, just prior to the [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/).
+The 25th Meeting of New Researchers in Statistics and Probability (2025 IMS New Researchers Conference) will be hosted by the Department of Biostatistics at the Vanderbilt University Medical Center (VUMC) during **July 31 - August 2, 2025**, just prior to the [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/). A full list of senior researchers who have committed to NRC 2025 can be found [here](https://nrc2025.github.io/speakers/).
 
 ## Eligibility
 
-Anyone who has received a Ph.D. in or after 2018, or expects to receive a Ph.D. by the end of 2025, is eligible to apply for NRC 2025, although participation is by **invitation** only. Travel (up to $400) and accomodation costs for the invited participants will be fully covered.
+Anyone who has received a Ph.D. in or after 2018, or expects to receive a Ph.D. by the end of 2025, is eligible to apply for NRC 2025, although participation is by **invitation** only. Travel (up to $400) and accomodation costs for the invited participants will be fully covered. The application **deadline** is **April 30, 2025**.
