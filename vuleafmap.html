@@ -22,18 +22,18 @@
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors'
         }).addTo(map);
-        
-        L.marker([36.1450, -86.8111]).addTo(map)
-            .bindPopup('Holiday Inn Nashville-Vanderbilt (Dwtn)')
-            .openPopup();
 
-        L.marker([36.1449, -86.8153]).addTo(map)
-            .bindPopup('Department of Biostatistics')
-            .openPopup();
-        
-        L.marker([36.1476, -86.7975]).addTo(map)
-            .bindPopup('Scarritt Bennett Center')
-            .openPopup();
+        var locations = [
+    { name: "Holiday Inn Nashville-Vanderbilt (Dwtn)", coords: [36.1450, -86.8111] },
+    { name: "Department of Biostatistics", coords: [36.1449, -86.8153] },
+    { name: "Scarritt Bennett Center", coords: [36.1476, -86.7975] }
+];
+
+        locations.forEach(function(location) {
+    L.marker(location.coords)
+        .addTo(map)
+        .bindPopup(location.name);
+});
     </script>
 </body>
 </html>
