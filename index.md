@@ -10,7 +10,7 @@ The [Institute of Mathematical Statistics (IMS)](https://imstat.org/) sponsors t
 
 ## NRC 2025 at VUMC
 
-The 25th Meeting of New Researchers in Statistics and Probability (2025 IMS New Researchers Conference) will be hosted by the Department of Biostatistics at the Vanderbilt University Medical Center during **July 31 - August 2, 2025**, just prior to the [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/).
+The 25th Meeting of New Researchers in Statistics and Probability (2025 IMS New Researchers Conference) will be hosted by the Department of Biostatistics at the Vanderbilt University Medical Center (VUMC) during **July 31 - August 2, 2025**, just prior to the [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/).
 
 ## Eligibility
 
