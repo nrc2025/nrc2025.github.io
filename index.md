@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: "/index/"
+permalink: ""
 layout: page
 ---
 
