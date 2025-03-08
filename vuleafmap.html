@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nashville Map</title>
+    <title>Vanderbilt University Medical Center</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <style>
@@ -14,17 +14,21 @@
     </style>
 </head>
 <body>
-    <h1>Map of Nashville</h1>
+    <h1>Vanderbilt University Medical Center</h1>
     <div id="map"></div>
     <script>
-        var map = L.map('map').setView([36.1627, -86.7816], 13);
+        var map = L.map('map').setView([36.1447, -86.8027], 15);
         
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '© OpenStreetMap contributors'
         }).addTo(map);
         
-        L.marker([36.1627, -86.7816]).addTo(map)
-            .bindPopup('Nashville, TN')
+        L.marker([36.1450, -86.8111]).addTo(map)
+            .bindPopup('Holiday Inn Nashville-Vanderbilt (Dwtn)')
+            .openPopup();
+        
+        L.marker([36.14595, -86.79717]).addTo(map)
+            .bindPopup('Scarritt Bennett Center')
             .openPopup();
     </script>
 </body>
