@@ -14,6 +14,12 @@ We will cover accomondation at the [Scarritt Bennett Center](https://scarrittben
 
 ### Other Hotel Options
 
+- [Nashville Marriott at Vanderbilt University](https://www.marriott.com/en-us/hotels/bnaav-nashville-marriott-at-vanderbilt-university/overview/) (0.2 miles)
+- [Homewood Suites by Hilton at Nashville Vanderbilt, TN](https://www.hilton.com/en/hotels/bnavbhw-homewood-suites-nashville-vanderbilt-tn/?SEO_id=GMB-AMER-HG-BNAVBHW&y_source=1_MjA4MzI0OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D) (0.3 miles)
+- [Fairfield Inn & Suites Nashville Near Vanderbilt](https://www.marriott.com/en-us/hotels/bnafo-fairfield-inn-and-suites-nashville-near-vanderbilt/overview/) (0.2 miles)
+- [Hampton Inn & Suites Nashville-Vanderbilt-Elliston Place](https://www.hilton.com/en/hotels/bnauvhx-hampton-suites-nashville-vanderbilt-elliston-place/) (0.4 miles)
+- [Loews Nashville Hotel at Vanderbilt Plaza](https://www.loewshotels.com/vanderbilt-hotel) (0.7 miles)
+
 ## Dining
 
 ## Parking and Transportation
