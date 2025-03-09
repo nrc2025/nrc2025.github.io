@@ -6,10 +6,14 @@ layout: page
 
 ## Organizing Committee
 
-- Panpan Zhang, Vanderbilt University Medical Center
-- Jinyuan Liu, Vanderbilt University Medical Center 
-- Armeen Taeb (off-site organizer), University of Washington
+- [Panpan Zhang](https://panpan-zhang.com/), Department of Biostatistics, Vanderbilt University Medical Center
+- [Jinyuan Liu](https://sites.google.com/view/jinyuanliu/about), Department of Biostatistics, Vanderbilt University Medical Center 
+- [Armeen Taeb](https://armeentaeb.github.io/index/) (off-site organizer), Department of Statistics, University of Washington
 
 ## Local Administrative Staff
-- Margaret Cullum, Vanderbilt University Medical Center
-- Peg Duthie, Vanderbilt University Medical Center
+- Margaret Cullum, Department of Biostatistics, Vanderbilt University Medical Center
+- Peg Duthie, Department of Biostatistics, Vanderbilt University Medical Center
+
+## Additional Support
+- [Eardi Lila](https://eardi.github.io/) (IMS-NRG treasure), Department of Biostatistics, University of Washington
+
