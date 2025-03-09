@@ -1,5 +1,5 @@
 ---
-title: "Kimberly Betensky"
+title: "Rebecca Betensky"
 mathjax: true
 layout: post
 ---
