@@ -22,5 +22,7 @@ We will cover accomondation at the [Scarritt Bennett Center](https://scarrittben
 
 ## Dining
 
+There are a lot of dining options on WEA.
+
 ## Parking and Transportation
 
