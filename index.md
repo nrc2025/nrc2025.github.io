@@ -24,6 +24,8 @@ The 25th Meeting of New Researchers in Statistics and Probability (2025 IMS New 
 
 Participation in NRC 2025 is by **invitation** only. Click [here](https://nrc2025.github.io/application/) for the details about application and invitation procedures. 
 
+*Details subject to change without notice.*
+
 ## Contact
 
 If you have any questions, please feel free to contact the organizers via <a href="mailto:nrc2025@vumc.org">nrc2025@vumc.org</a>.
