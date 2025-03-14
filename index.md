@@ -4,6 +4,8 @@ permalink: "/"
 layout: page
 ---
 
+*This website is under renovation.*
+
 ## General Information
 
 The [Institute of Mathematical Statistics (IMS)](https://imstat.org/) sponsors the New Researchers Conference (NRC) every year, which takes place the week before [Joint Statistical Meetings (JSM)](https://www.amstat.org/meetings/joint-statistical-meetings). NRC promotes networking and interaction among new researchers in the field of statistics, biostatistics, and probability, including those who expect to hold tenure-track positions in the near future. Attendees will present their research through brief expository talks and posters, and have the chance to mingle throughout the day. There will be longer talks by senior researchers, and panels on various topics such as publishing, grant applications, collaboration, and mentoring. Click [here](https://imstat.org/ims-groups/ims-new-researchers-group/past-conferences/) for the list of previous NRCs.
@@ -20,7 +22,7 @@ The 25th Meeting of New Researchers in Statistics and Probability (2025 IMS New 
 - All NRC attendees must have IMS membership. You can obtain IMS membership [here](https://imstat.org/individual-membership/). 
 - The application **deadline** is **April 30, 2025**.
 
-Participation in NRC 2025 is by **invitation** only. Travel (up to $400) and accomodation costs for the invited participants will be fully covered. Click [here](https://nrc2025.github.io/application/) for the details about application and invitation procedures. 
+Participation in NRC 2025 is by **invitation** only. Click [here](https://nrc2025.github.io/application/) for the details about application and invitation procedures. 
 
 ## Contact
 
