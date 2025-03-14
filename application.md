@@ -14,4 +14,4 @@ You can submit your application by completing this [REDCap survey](). **Note:** 
 Participation in NRC 2025 is by **invitation** only. We will give priority to individuals who are starting or recently started their faculty positions, although we will consider applications from postdocs and senior graduate students as well.
 
 ### Invitation
-The selected participants are expected to receive our invitations by **May 30, 2025**. Travel (up to $400) and accomodation costs for the invited participants will be fully covered.
+The selected participants are expected to receive our invitations by **May 30, 2025**. 
