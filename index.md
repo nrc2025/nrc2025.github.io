@@ -8,24 +8,26 @@ layout: page
 
 ## General Information
 
-The [Institute of Mathematical Statistics (IMS)](https://imstat.org/) sponsors the New Researchers Conference (NRC) every year, which takes place the week before [Joint Statistical Meetings (JSM)](https://www.amstat.org/meetings/joint-statistical-meetings). NRC promotes networking and interaction among new researchers in the field of statistics, biostatistics, and probability, including those who expect to hold tenure-track positions in the near future. Attendees will present their research through brief expository talks and posters, and have the chance to mingle throughout the day. There will be longer talks by senior researchers, and panels on various topics such as publishing, grant applications, collaboration, and mentoring. Click [here](https://imstat.org/ims-groups/ims-new-researchers-group/past-conferences/) for the list of previous NRCs.
+The [Institute of Mathematical Statistics (IMS)](https://imstat.org/) New Researchers Conference (NRC) takes place every year the week before the [Joint Statistical Meetings (JSM)](https://www.amstat.org/meetings/joint-statistical-meetings). NRC promotes networking and interaction among new researchers in the fields of statistics, biostatistics, and probability, including those who expect to hold tenure-track positions in the near future. Attendees have the opportunity to present their research through brief expository talks and posters and meet other early-career researchers. There will be panels and presentations by senior researchers on topics including publishing, grant applications, collaboration, and mentoring. Learn more about previous NRC symposia [here](https://imstat.org/ims-groups/ims-new-researchers-group/past-conferences/).
 
-## NRC 2025 at VUMC
+## NRC 2025 in Nashville
 
-The 25th Meeting of New Researchers in Statistics and Probability (2025 IMS New Researchers Conference) will be hosted by the Department of Biostatistics at the Vanderbilt University Medical Center (VUMC) during **July 31 - August 2, 2025**, just prior to the [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/). The conference will be primarily held in the [Holiday Inn Nashville--Vanderbilt (Dwtn)](https://www.ihg.com/holidayinn/hotels/us/en/nashville/bnavb/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-US-_-BNAVB). A full list of senior researchers who have committed to NRC 2025 can be found [here](https://nrc2025.github.io/speakers/). The full program book is available at [here]() (***in preparation***).
+The 2025 IMS New Researchers Conference will be co-hosted by the Department of Biostatistics at Vanderbilt University Medical Center in Nashville, Tennessee, **July 31 through August 2, 2025**. View the list of participating senior researchers [here](https://nrc2025.github.io/speakers/). The program book will be available soon.
+
+The conference venue is the [Holiday Inn Nashville-Vanderbilt](https://www.ihg.com/holidayinn/hotels/us/en/nashville/bnavb/hoteldetail) at 2613 West End Avenue. 
 
 <iframe src="https://nrc2025.github.io/vuleafmap.html" width="800" height="450"></iframe>
 
 ## Application and Eligibility
 
-- The applicants must has received a Ph.D. in or after 2018, or expects to receive a Ph.D. by the end of 2025.
-- All NRC attendees must have IMS membership. You can obtain IMS membership [here](https://imstat.org/individual-membership/). 
-- The application **deadline** is **April 30, 2025**.
+Attendance at the New Researchers Conference is invitation only. Please fill out the application form here to be considered. Space is limited, and applications will be considered on a first-come, first-served basis. The deadline to apply is **April 30**.
 
-Participation in NRC 2025 is by **invitation** only. Click [here](https://nrc2025.github.io/application/) for the details about application and invitation procedures. 
+IMS membership is required to attend. If you are not yet a member, you can join [here](https://imstat.org/individual-membership/). Applicants must have received (or expect to receive) their PhD between 2018 and 2025.
+
+Visit the [application page](https://nrc2025.github.io/application/) for more details. 
 
 *Details subject to change without notice.*
 
 ## Contact
 
-If you have any questions, please feel free to contact the organizers via <a href="mailto:nrc2025@vumc.org">nrc2025@vumc.org</a>.
+If you have questions, please reach out to <a href="mailto:nrc2025@vumc.org">nrc2025@vumc.org</a>.
