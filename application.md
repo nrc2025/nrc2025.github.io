@@ -4,14 +4,13 @@ permalink: "/application/"
 layout: page
 ---
 
-You can submit your application by completing this [REDCap survey](). **Note:** The attendees are expected to participate in both poster and speed talk sessions. The presentation title and abstract are **required** in the survey. The application **deadline** is **April 30, 2025**.
+Submit your application for the 2025 New Researchers Conference here. The deadline is **April 30, 2025**.
+
+Attendees are expected to participate in both the poster session and speed talk presentations. Your presentation title and abstract are required in the application.
 
 ### Eligibility
-- The applicants must has received a Ph.D. in or after 2018, or expects to receive a Ph.D. by the end of 2025.
-- All NRC attendees must have IMS membership. You can obtain IMS membership [here](https://imstat.org/individual-membership/).
+Attendance is invitation only. Submitting an application does not guarantee entry. Space is limited, and applications will be considered on a first-come, first-served basis. The organizing committee will prioritize individuals who are starting or recently started faculty positions, although postdocs and senior graduate students may also be considered. Applicants must have received their PhD between 2018 and 2025.
 
-### Selection 
-Participation in NRC 2025 is by **invitation** only. We will give priority to individuals who are starting or recently started their faculty positions, although we will consider applications from postdocs and senior graduate students as well.
+IMS membership is required to attend. If you are not yet a member, you can learn more and sign up on the [IMS website](https://imstat.org/individual-membership/). 
 
-### Invitation
-The selected participants are expected to receive our invitations by **May 30, 2025**. 
+Selected participants can expect to receive invitations by **May 30, 2025**. 
