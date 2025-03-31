@@ -4,7 +4,7 @@ permalink: "/"
 layout: page
 ---
 
-*This website is under renovation.*
+*This website is under renovation. The application form will be available soon.*
 
 ## General Information
 
@@ -20,7 +20,7 @@ The conference venue is the [Holiday Inn Nashville-Vanderbilt](https://www.ihg.c
 
 ## Application and Eligibility
 
-Attendance at the New Researchers Conference is invitation only. Please fill out the application form here to be considered. Space is limited, and applications will be considered on a first-come, first-served basis. The deadline to apply is **April 30**.
+Attendance at the New Researchers Conference is invitation only. Please fill out the application form to be considered. Space is limited, and applications will be considered on a first-come, first-served basis.
 
 IMS membership is required to attend. If you are not yet a member, you can join [here](https://imstat.org/individual-membership/). Applicants must have received (or expect to receive) their PhD between 2018 and 2025.
 
