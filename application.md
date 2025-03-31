@@ -4,7 +4,7 @@ permalink: "/application/"
 layout: page
 ---
 
-Submit your application for the 2025 New Researchers Conference here. The deadline is **April 30, 2025**.
+The application form will be available soon.
 
 Attendees are expected to participate in both the poster session and speed talk presentations. Your presentation title and abstract are required in the application.
 
