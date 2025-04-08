@@ -12,7 +12,7 @@ The [Institute of Mathematical Statistics (IMS)](https://imstat.org/) New Resear
 
 ## NRC 2025 in Nashville
 
-The 2025 IMS New Researchers Conference will be co-hosted by the Department of Biostatistics at Vanderbilt University Medical Center in Nashville, Tennessee, **July 31 through August 2, 2025**. The speaker invitation is currently underway and confirmed speakers will be announced [here](https://nrc2025.github.io/speakers/) once confirmed.
+The 2025 IMS New Researchers Conference will be co-hosted by the Department of Biostatistics at Vanderbilt University Medical Center in Nashville, Tennessee, **July 31 through August 2, 2025**. Speakers will be announced soon.
 
 The conference venue is the [Holiday Inn Nashville-Vanderbilt](https://www.ihg.com/holidayinn/hotels/us/en/nashville/bnavb/hoteldetail) at 2613 West End Avenue. 
 
