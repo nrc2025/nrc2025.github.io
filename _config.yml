@@ -1,6 +1,6 @@
 title: "2025 IMS New Researchers Conference"
 author: "NRC 2025 Organizers"
-description: "NRC 2025 at VUMC"
+description: "2025 IMS New Researchers Conference"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,14 +17,14 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
-  - {file: "organizers.md", title: Organizers}
-  - {file: "speakers.html", title: Speakers}
   - {file: "application.md", title: Application}
   - {file: "venue.md", title: Venue}
+  - {file: "speakerstemp.md", title: Speakers}
+  - {file: "organizers.md", title: Organizers}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: NRC, icon: internet-explorer, url: "https://www.imsnrg.com/home"}
+# external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  # - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  # - {title: NRC, icon: internet-explorer, url: "https://www.imsnrg.com/home"}
 
 
 comments:
