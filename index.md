@@ -4,11 +4,13 @@ permalink: "/"
 layout: page
 ---
 
-Applications for the 2025 IMS New Researchers Conference are now open. Please apply using [this form](https://redcap.vumc.org/surveys/?s=RTR49FNPWATEJK9M). Applications are due by **May 15**.
+Applications for the 2025 IMS New Researchers Conference are now open. Please apply using [this form](https://redcap.vumc.org/surveys/?s=RTR49FNPWATEJK9M). The application deadline has been extended to **May 23**. 
 
 ## General Information
 
 The [Institute of Mathematical Statistics (IMS)](https://imstat.org/) New Researchers Conference (NRC) takes place every year the week before the [Joint Statistical Meetings (JSM)](https://www.amstat.org/meetings/joint-statistical-meetings). NRC promotes networking and interaction among new researchers in the fields of statistics, biostatistics, and probability, including those who expect to hold tenure-track positions in the near future. Attendees have the opportunity to present their research through brief expository talks and posters and meet other early-career researchers. There will be panels and presentations by senior researchers on topics including publishing, grant applications, collaboration, and mentoring. Learn more about previous NRC symposia [here](https://imstat.org/ims-groups/ims-new-researchers-group/past-conferences/).
+
+This year, IMS will incorporate elements of the annual Preparing to Teach conference into NRC by including a panel on teaching. Researchers interested in a career in statistics and data science education are encouraged to apply. Learn more about past Preparing to Teach conferences [here](https://preparingtoteach.org/about.html).
 
 ## NRC 2025 in Nashville
 
