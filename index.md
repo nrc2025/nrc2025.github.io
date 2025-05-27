@@ -4,7 +4,7 @@ permalink: "/"
 layout: page
 ---
 
-Applications for the 2025 IMS New Researchers Conference are now open. Please apply using [this form](https://redcap.vumc.org/surveys/?s=RTR49FNPWATEJK9M). The application deadline has been extended to **May 23**. 
+Applications for the 2025 IMS New Researchers Conference are now closed.
 
 ## General Information
 
