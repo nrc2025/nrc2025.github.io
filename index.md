@@ -4,7 +4,7 @@ permalink: "/"
 layout: page
 ---
 
-Applications for the 2025 IMS New Researchers Conference are now closed.
+AInvitations and notifications for NRC 2025 will be sent by **June 17** --- We are finalizing some arrangements that must be in place before we can request RSVPs. We appreciate your patience.
 
 ## General Information
 
