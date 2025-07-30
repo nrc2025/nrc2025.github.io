@@ -18,7 +18,7 @@ The conference venue is the [Holiday Inn Nashville-Vanderbilt](https://www.ihg.c
 
 <iframe src="https://nrc2025.github.io/vuleafmap.html" width="800" height="450"></iframe>
 
-<iframe src="document.pdf" width="800" height="450">
+<iframe src="NRC_2025_Schedule_Final_Edited.pdf" width="800" height="450">
   The tentative schedule can be found here. <a href="NRC_2025_Schedule_Final_Edited.pdf">Download PDF</a>
 </iframe>
 
