@@ -26,7 +26,7 @@ The conference venue is the [Holiday Inn Nashville-Vanderbilt](https://www.ihg.c
 
 Attendance at the New Researchers Conference is invitation only. Please fill out the [application form](https://redcap.vumc.org/surveys/?s=RTR49FNPWATEJK9M) to be considered. Space is limited, and applications will be considered on a first-come, first-served basis.
 
-IMS membership is required to attend. If you are not yet a member, you can join [here](https://imstat.org/individual-membership/). Applicants must have received (or expect to receive) their PhD between 2018 and 2025.
+IMS membership is **required** to attend. If you are not yet a member, you can join [here](https://imstat.org/individual-membership/). Applicants must have received (or expect to receive) their PhD between 2018 and 2025.
 
 Visit the [application page](https://nrc2025.github.io/application/) for more details. 
 
