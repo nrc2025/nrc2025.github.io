@@ -4,8 +4,6 @@ permalink: "/"
 layout: page
 ---
 
-AInvitations and notifications for NRC 2025 will be sent by **June 17** --- We are finalizing some arrangements that must be in place before we can request RSVPs. We appreciate your patience.
-
 ## General Information
 
 The [Institute of Mathematical Statistics (IMS)](https://imstat.org/) New Researchers Conference (NRC) takes place every year the week before the [Joint Statistical Meetings (JSM)](https://www.amstat.org/meetings/joint-statistical-meetings). NRC promotes networking and interaction among new researchers in the fields of statistics, biostatistics, and probability, including those who expect to hold tenure-track positions in the near future. Attendees have the opportunity to present their research through brief expository talks and posters and meet other early-career researchers. There will be panels and presentations by senior researchers on topics including publishing, grant applications, collaboration, and mentoring. Learn more about previous NRC symposia [here](https://imstat.org/ims-groups/ims-new-researchers-group/past-conferences/).
@@ -19,6 +17,10 @@ The 2025 IMS New Researchers Conference will be co-hosted by the Department of B
 The conference venue is the [Holiday Inn Nashville-Vanderbilt](https://www.ihg.com/holidayinn/hotels/us/en/nashville/bnavb/hoteldetail) at 2613 West End Avenue. 
 
 <iframe src="https://nrc2025.github.io/vuleafmap.html" width="800" height="450"></iframe>
+
+<iframe src="document.pdf" width="800" height="450">
+  The tentative schedule can be found here. <a href="NRC_2025_Schedule_Final_Edited.pdf">Download PDF</a>
+</iframe>
 
 ## Application and Eligibility
 
